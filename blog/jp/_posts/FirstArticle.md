@@ -4,5 +4,6 @@ description: 初めまして！
 date: 2018-12-26
 slug: first-article
 draft: false
+layout: Layout
 ---
 初めての投稿です。
