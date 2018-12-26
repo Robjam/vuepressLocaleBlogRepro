@@ -1,0 +1,14 @@
+{
+  "name": "vuepressLocaleRepro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.0.0-alpha.30",
+    "vuepress": "^1.0.0-alpha.30"
+  },
+  "scripts": {
+    "dev:blog": "vuepress dev --debug blog",
+    "build:blog": "vuepress build blog"
+  }
+}
